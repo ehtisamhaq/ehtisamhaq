@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**ehtisamhaq/ehtisamhaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Md. Ehtisamul Haque, a passionate front-end web developer based in Rajshahi, Bangladesh.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on enhancing my skills in web development and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning about advanced JavaScript frameworks like React and Node.js.
+
+💬 Ask me about front-end web development, HTML, CSS, JavaScript, React, and anything related to web technologies.
+
+📫 You can reach me via email at ehtisamul@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ehtisamul-haque).
+
+⚡ Fun fact: I enjoy experimenting with new coding techniques and creating visually appealing web interfaces.
+
+Feel free to explore my repositories and projects. Happy coding! 😄
